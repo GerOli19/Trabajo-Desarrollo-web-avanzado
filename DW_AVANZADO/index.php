@@ -18,7 +18,15 @@
     
         <div class="container">
     
-            <h1>Practica Desarrollo Web Avanzado : Gerardo Oliver Jimen&eacute;z</h1>
+            <h1>
+                Practica Desarrollo Web Avanzado
+            </h1>
+
+            <h2>
+                Alumno: Gerardo Oliver Jimen&eacute;z <br>
+                Maestro: Octavio Aguirre Lozano <br>
+                Materia: Computaci&oacute;n en el Servidor Web
+            </h2>
             <p>
             
                 Se ha implementado una aplicaci&oacute;n web en lenguaje PHP en la que se 
